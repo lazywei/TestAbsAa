@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="actionbarsherlock.aar" >
+        <source path="/Users/lazywei/AndroidStudioProjects/TestAbsAaProject/TestAbsAa/build/exploded-bundles/actionbarsherlock.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/lazywei/AndroidStudioProjects/TestAbsAaProject/TestAbsAa/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/lazywei/AndroidStudioProjects/TestAbsAaProject/TestAbsAa/src/release/assets" />
+    </dataSet>
+
+</merger>
